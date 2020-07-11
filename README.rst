@@ -16,6 +16,9 @@ XMB
 
 This is the home for developing XMB. A suite of skins that imitate the PS3's XMB menu using Rainmeter.
 
+.. image:: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9d354760-79b7-44eb-9a4c-5fc831468200/d74af4a-6b252bb8-d8f9-4556-9a0d-37d3a1c0c4a8.png/v1/fill/w_1192,h_670,q_70,strp/ps3_xmb_via_rainmeter_2_0_by_2bndy5_d74af4a-pre.jpg
+    :target: https://sta.sh/05j4ovhwsxz
+
 Rainmeter required
 ##################
 
